@@ -1,8 +1,6 @@
-# College Web Development Project - Shashwat Raghuvanshi Portfolio
+Shashwat Raghuvanshi Portfolio
 
-A clean, minimal, and responsive personal portfolio website designed for a college project/assignment.
 
----
 
 ## 📁 Files in This Project
 
@@ -16,7 +14,7 @@ portfolio-website/
 
 ---
 
-## 👤 Profile Details
+##  Profile Details
 
 - **Name:** Shashwat Raghuvanshi
 - **Education:**
@@ -33,9 +31,8 @@ portfolio-website/
 
 ---
 
-## 🎯 Key Concepts to Explain in Your Viva / College Presentation
 
-If your professor or examiner asks you about the code, here is how you can explain each part:
+
 
 ### 1. HTML5 (`index.html`)
 - **Semantic Tags**: Used `<header>`, `<nav>`, `<section>`, and `<footer>` instead of just plain `<div>`s to improve document structure and accessibility (SEO-friendly).
